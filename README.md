@@ -1,4 +1,4 @@
-# 🌟 Equipo 4 - LATAM - Plataforma de Aprendizaje Electrónico
+# 🌟 Equipo 4 - LATAM - E-learning Platform ONE
 
 ¡Bienvenidos al **hub central** de nuestra organización en GitHub! 🚀
 
