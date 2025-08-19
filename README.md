@@ -21,6 +21,21 @@ Este repositorio `.github` es nuestra **base de operaciones**, donde definimos c
   Presentación oficial de Team 4, enlaces a repositorios clave y recursos importantes para colaborar con nosotros.
 
 ---
+## 🗂️ Estructura
+
+```
+.github/
+├─ ISSUE_TEMPLATE/
+│  ├─ bug_report.md
+│  ├─ feature_request.md
+├─ PULL_REQUEST_TEMPLATE.md
+├─ workflows/
+│  ├─ ci.yml
+│  ├─ deploy.yml
+├─ README.md
+```
+
+---
 
 ## 📌 Links importantes
 
