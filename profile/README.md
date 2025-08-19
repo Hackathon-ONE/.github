@@ -11,7 +11,7 @@ Resuelve desafíos reales, demuestra tus habilidades técnicas, trabaja en equip
 
 ---
 
-## Proyecto: Plataforma de Aprendizaje Electrónico 🎓
+## Proyecto: E-learning Platform ONE 🎓
 
 ### Historias de Usuario
 
