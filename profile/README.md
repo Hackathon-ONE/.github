@@ -81,16 +81,16 @@ Resuelve desafíos reales, demuestra tus habilidades técnicas, trabaja en equip
 
 ## Repositorios
 
-- [**💻 Back-E-learning**](https://github.com/Hackathon-ONE/Back-E-learning)  
+- 💻 [**Back-E-learning**](https://github.com/Hackathon-ONE/Back-E-learning)  
   Plataforma de aprendizaje electrónico  
   🛠️ Tecnologías: `spring-boot`, `jpa`, `postgresql`, `jdbc-driver`, `swagger-ui`, `java17`, `Java`
 
-- [**🖥️ Front-E-learning**](https://github.com/Hackathon-ONE/Front-E-learning)  
+- 🖥️ [**Front-E-learning**](https://github.com/Hackathon-ONE/Front-E-learning)  
   Plataforma de aprendizaje electrónico  
   🎨 Tecnologías: `reactjs`, `tailwindcss`, `router-dom`, `axios-react`, `headlessui`, `daysiui`, `nextjs15`, `JavaScript`  
   📄 Licencia: MIT
 
-- [**🌟 Demo-repository**](https://github.com/Hackathon-ONE/demo-repository)  
+- 🌟 [**Demo-repository**](https://github.com/Hackathon-ONE/demo-repository)  
   Repositorio público diseñado para mostrar las mejores prácticas de GitHub.
 
 ---
