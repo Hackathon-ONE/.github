@@ -1,0 +1,65 @@
+name: CI/CD Full Stack Team 4
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  backend:
+    name: Backend Spring Boot
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Configurar JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Cache de dependencias Maven
+        uses: actions/cache@v3
+        with:
+          path: ~/.m2/repository
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+          restore-keys: ${{ runner.os }}-maven
+
+      - name: Compilar y ejecutar tests
+        run: mvn clean install
+
+  frontend:
+    name: Frontend Next.js/React
+    runs-on: ubuntu-latest
+    needs: backend   # Se ejecuta después de backend
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+        working-directory: ./frontend  # Ajusta la ruta si tu frontend está en otra carpeta
+
+      - name: Ejecutar tests
+        run: npm test
+        working-directory: ./frontend
+
+      - name: Construir la app
+        run: npm run build
+        working-directory: ./frontend
+
+  deploy:
+    name: Deploy (Opcional)
+    runs-on: ubuntu-latest
+    needs: [backend, frontend]
+
+    steps:
+      - name: Mensaje de despliegue
+        run: echo "Aquí iría el proceso de despliegue al servidor o nube"
