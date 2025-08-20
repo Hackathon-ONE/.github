@@ -25,6 +25,8 @@ Este repositorio `.github` es nuestra **base de operaciones**, donde definimos c
 
 ```
 .github/
+├─ profile/
+│  ├─ README.md
 ├─ ISSUE_TEMPLATE/
 │  ├─ bug_report.md
 │  ├─ feature_request.md
@@ -33,6 +35,8 @@ Este repositorio `.github` es nuestra **base de operaciones**, donde definimos c
 │  ├─ ci.yml
 │  ├─ deploy.yml
 ├─ README.md
+├─ LICENSE
+
 ```
 
 ---
