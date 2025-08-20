@@ -1,0 +1,18 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Instalar dependencias
+        run: npm install
+      - name: Build del proyecto
+        run: npm run build
+      - name: Desplegar a producción
+        run: echo "Aquí iría el comando de despliegue"
