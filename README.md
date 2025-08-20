@@ -32,8 +32,10 @@ Este repositorio `.github` es nuestra **base de operaciones**, donde definimos c
 │  ├─ feature_request.md
 ├─ PULL_REQUEST_TEMPLATE.md
 ├─ workflows/
+│  ├─ backend-ci.yml
 │  ├─ ci.yml
 │  ├─ deploy.yml
+│  ├─ frontend-ci.yml
 ├─ README.md
 ├─ LICENSE
 
