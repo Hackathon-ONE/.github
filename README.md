@@ -33,6 +33,7 @@ Este repositorio `.github` es nuestra **base de operaciones**, donde definimos c
 ├─ PULL_REQUEST_TEMPLATE.md
 ├─ workflows/
 │  ├─ backend-ci.yml
+│  ├─ ci-cd.yml
 │  ├─ ci.yml
 │  ├─ deploy.yml
 │  ├─ frontend-ci.yml
