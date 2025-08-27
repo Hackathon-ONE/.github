@@ -67,7 +67,6 @@ Resuelve desafíos reales, demuestra tus habilidades técnicas, trabaja en equip
 | Angeles Escudero Gedge        | Backend Developer    | [@angelesescudero](https://github.com/angelesescudero) |
 | Francisco Xavier Vera Fabila  | Backend Developer    | [@Morfeo95](https://github.com/Morfeo95) |
 | Mariana Andrea Lois           | Full Stack Developer | [@Lady-Marianne](https://github.com/Lady-Marianne) |
-| Nicolás Farreaut              | Backend Developer    | [@nicorfq](https://github.com/nicorfq) |
 | Orlibet (Orli) Dun            | Full Stack Developer | [@Orliluq](https://github.com/Orliluq) |
 | Osiris Aguilazocho Lopez      | Full Stack Developer | [@DonSitiho](https://github.com/DonSitiho) |
 
