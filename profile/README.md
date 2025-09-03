@@ -58,6 +58,66 @@ Resuelve desafíos reales, demuestra tus habilidades técnicas, trabaja en equip
 
 ---
 
+## Nuestro proyecto lleva por nombre:
+# 🌟 Lumina — Ilumina tu aprendizaje 🌟 
+
+### ✨ ¿Por qué "Lumina"?
+
+El nombre **Lumina** proviene de la palabra "luz", simbolizando:
+
+- Claridad y conocimiento
+- La chispa de la curiosidad
+- Guía en el aprendizaje
+
+Nuestra asistente virtual **Lumi** encarna este concepto como una compañera cercana y brillante que hace el aprendizaje más humano y accesible.
+
+## 🎨 Paleta de Colores
+
+### 🌞 Modo Claro
+| Elemento | Color | Código |
+|----------|-------|--------|
+| Fondo base | ![](https://img.shields.io/badge/-%23f6f9fc.svg?style=flat&logoColor=white&label=) | `#f6f9fc` |
+| Superficies | ![](https://img.shields.io/badge/-%23f5f2ee.svg?style=flat&logoColor=white&label=) | `#f5f2ee` |
+| Texto principal | ![](https://img.shields.io/badge/-%23333333.svg?style=flat&logoColor=white&label=) | `#333333` |
+| Color primario | ![](https://img.shields.io/badge/-%23ff5400.svg?style=flat&logoColor=white&label=) | `#ff5400` |
+| Acentos | ![](https://img.shields.io/badge/-%233d3f3e.svg?style=flat&logoColor=white&label=) | `#3d3f3e` |
+
+### 🌙 Modo Oscuro
+| Elemento | Color | Código |
+|----------|-------|--------|
+| Fondo base | ![](https://img.shields.io/badge/-%231e293f.svg?style=flat&label=) | `#1e293f` |
+| Superficies | ![](https://img.shields.io/badge/-%232a2e3b.svg?style=flat&label=) | `#2a2e3b` |
+| Texto | ![](https://img.shields.io/badge/-%23ffffff.svg?style=flat&label=) | `#ffffff` |
+| Color primario | ![](https://img.shields.io/badge/-%23fca311.svg?style=flat&label=) | `#fca311` |
+| Acentos | ![](https://img.shields.io/badge/-%23c9ce89.svg?style=flat&label=) | `#c9ce89` |
+
+## 🚀 Objetivos del Proyecto
+
+### Para Estudiantes 👩‍🎓
+- Experiencia de aprendizaje intuitiva
+- Seguimiento personalizado
+- Motivación constante
+
+### Para Instructores 👨‍🏫
+- Herramientas de gestión sencillas
+- Comunicación efectiva
+- Seguimiento de progreso
+
+### Para Administradores 🛠️
+- Panel de control completo
+- Métricas detalladas
+- Gestión de usuarios
+
+## ⚡️ En resumen
+**Lumina** es más que una plataforma de e-learning:
+- **Luz** que guía el aprendizaje
+- **Compañía** en el viaje educativo
+- **Crecimiento** personal y profesional
+
+Con una estética moderna y accesible, transformamos la educación digital en una experiencia inspiradora y cercana.
+
+--- 
+
 ## Equipo 4 - LATAM
 
 **6 miembros**
