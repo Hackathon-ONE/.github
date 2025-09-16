@@ -1,4 +1,4 @@
-# Hackathon ONE
+# Hackathon ONE - Equipo 4 LATAM
 
 ¡Bienvenidos a **Hackathon ONE**!  
 Somos una comunidad apasionada por la innovación y la colaboración en hackatones.
