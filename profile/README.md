@@ -138,15 +138,30 @@ Con una estética moderna y accesible, transformamos la educación digital en un
 
 ---
 
-## Repositorios
+## 🚀 Repositorios
 
-- 💻 [**Back-E-learning**](https://github.com/Hackathon-ONE/Back-E-learning)  
-  Plataforma de aprendizaje electrónico  
-  🛠️ Tecnologías: `spring-boot`, `jpa`, `postgresql`, `jdbc-driver`, `swagger-ui`, `java17`, `Java`
+- 💻 [**Back-Lumina**](https://github.com/Hackathon-ONE/Back-E-learning)  
+  Plataforma de aprendizaje electrónico.  
+  🛠️ Tecnologías: `spring-boot`, `jpa`, `postgresql`, `jdbc-driver`, `swagger-ui`, `java17`, `docker`
 
-- 🖥️ [**Front-E-learning**](https://github.com/Hackathon-ONE/Front-E-learning)  
+### 🌐 Deploy
+
+- **Backend (Render + Docker):**  
+  🔗 [https://back-e-learning-1.onrender.com](https://back-e-learning-1.onrender.com)
+
+- **Base de Datos (PostgreSQL Render):**  
+  ```bash
+  postgresql://elearning_8xpu_user:dd23oHDEQSpd7WEsoy8YKl2tYlhkGg1d@dpg-d2vdr87diees73e0t6d0-a.oregon-postgres.render.com/elearning_8xpu
+
+- 🖥️ [**Front-Lumina**](https://github.com/Hackathon-ONE/Front-E-learning)  
   Plataforma de aprendizaje electrónico  
-  🎨 Tecnologías: `reactjs`, `tailwindcss`, `router-dom`, `axios-react`, `headlessui`, `daysiui`, `nextjs15`, `JavaScript`  
+  🎨 Tecnologías: `reactjs`, `tailwindcss`, `router-dom`, `axios-react`, `headlessui`, `daysiui`, `nextjs15`, `JavaScript`
+
+### 🌐 Deploy
+
+- **Frontend (Vercel):**
+  🔗 [https://front-e-learning-seven.vercel.app](https://front-e-learning-seven.vercel.app/)
+    
   📄 Licencia: MIT
 
 - 🌟 [**Demo-repository**](https://github.com/Hackathon-ONE/demo-repository)  
