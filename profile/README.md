@@ -146,8 +146,7 @@ Con una estética moderna y accesible, transformamos la educación digital en un
 
 ### 🌐 Deploy
 
-- **Backend (Render + Docker):**  
-  🔗 [https://back-e-learning-1.onrender.com](https://back-e-learning-1.onrender.com)
+- **Backend (Render + Docker):**  🔗 [https://back-e-learning-1.onrender.com](https://back-e-learning-1.onrender.com)
 
 - **Base de Datos (PostgreSQL Render):**  
   ```bash
@@ -159,8 +158,7 @@ Con una estética moderna y accesible, transformamos la educación digital en un
 
 ### 🌐 Deploy
 
-- **Frontend (Vercel):**
-  🔗 [https://front-e-learning-seven.vercel.app](https://front-e-learning-seven.vercel.app/)
+- **Frontend (Vercel):** 🔗 [https://front-e-learning-seven.vercel.app](https://front-e-learning-seven.vercel.app/)
     
   📄 Licencia: MIT
 
