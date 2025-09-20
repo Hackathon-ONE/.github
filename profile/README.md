@@ -134,7 +134,13 @@ Con una estética moderna y accesible, transformamos la educación digital en un
 
 ## Tablero Kanban
 
-- [Trello - Hackathon ONE E-learning](https://trello.com/b/TgmVuCBK/hackaton-one-e-learning)
+### - [Trello - Hackathon ONE E-learning](https://trello.com/b/TgmVuCBK/hackaton-one-e-learning)
+
+---
+
+## Tablero Kanban
+
+### - [Figma - Hackathon ONE E-learning](https://www.figma.com/design/wK3uA1lwIFPwUbH1yhJjlM/E-Learning-Platform)
 
 ---
 
