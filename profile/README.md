@@ -138,7 +138,7 @@ Con una estética moderna y accesible, transformamos la educación digital en un
 
 ---
 
-## Tablero Kanban
+## Figma
 
 ### - [Figma - Hackathon ONE E-learning](https://www.figma.com/design/wK3uA1lwIFPwUbH1yhJjlM/E-Learning-Platform)
 
